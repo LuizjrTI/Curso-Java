@@ -1,5 +1,12 @@
 package fundamentos;
 
+/**
+ * 
+ * @author Luiz Junior
+ * @category Aula20
+ *
+ */
+
 public class notacaoPonto {
 	
 	public static void main(String[] args) {
