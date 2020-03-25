@@ -1,7 +1,8 @@
 package fundamentos;
 
 public class primeiroPrograma {
-
+	
+	// tudo começa a partir de um main!!!
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
