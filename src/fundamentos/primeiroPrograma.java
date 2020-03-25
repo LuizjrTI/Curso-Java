@@ -1,5 +1,11 @@
 package fundamentos;
 
+/**
+ * 
+ * @author Luiz Junior
+ * @since 2020
+ */
+
 public class primeiroPrograma {
 	
 	// tudo começa a partir de um main!!!
@@ -9,6 +15,6 @@ public class primeiroPrograma {
 		
 		System.out.println("Hello World!!");
 	}
-
 	
+		
 }
