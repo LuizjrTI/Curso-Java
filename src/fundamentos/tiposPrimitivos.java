@@ -2,6 +2,7 @@ package fundamentos;
 
 public class tiposPrimitivos {
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		// informações do funcionario
