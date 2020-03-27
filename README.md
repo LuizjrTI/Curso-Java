@@ -1,7 +1,7 @@
 # Curso-Java
 Curso de linguagem Java / CODER
 
-
+Para o uso dos materias desse curso basta realizar um git clone < https://github.com/LuizjrTI/Curso-Java.git > e importar a pasta para a IDE de sua preferencia.
 
 # Atalhos / Comandos Rápidos 
   - crlt + /
