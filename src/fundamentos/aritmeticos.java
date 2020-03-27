@@ -28,7 +28,7 @@ public class aritmeticos {
 		System.out.println(a % b); // recuepra o resto da divisão.
 		System.out.println(8 % 3);
 		
-		System.out.println(x + y - a * b); // ocorre a precedencia da nultiplicação sobre a subtração e soma
+		System.out.println(x + y - a * b); // ocorre a precedencia da multiplicação sobre a subtração e soma
 		
 		
 		
