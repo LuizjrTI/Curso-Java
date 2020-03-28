@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class Atribuicao {
+public class atribuicao {
 	
 	public static void main(String[] args) {
 		
